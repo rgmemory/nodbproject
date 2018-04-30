@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
-import './App.css';
 import './reset.css';
+import './App.css';
 import axios from 'axios';
 import Character from './components/character/character'
 import UpdateRating from './components/updateRating/updateRating'
@@ -65,7 +65,7 @@ class App extends Component {
     return (
       <div className="App">
         <header>
-          <h1 >The World's Most Useful App</h1>     
+          <h1>A Useful App?</h1>     
         </header>
         
         {formatCharacters}
@@ -78,7 +78,6 @@ class App extends Component {
     );
   }
 }
-
 
 export default App;
 

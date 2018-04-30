@@ -1,21 +1,30 @@
 body{
-  background-color: #eadf88;
-  display: flex;
-  flex-wrap: wrap;
+  background-color: black;
+  background-image: url('starWarsLogo.jpg');
+  background-repeat: no-repeat;
+  color: white;
+
 }
 
 .App {
-  /* display: flex;
-  flex-wrap: wrap; */
+  
+}
+
+header{
+  font-style: italic;
+  margin: auto;
+  height: 75px;
+  background-color: black;
+  color: #E53726;
+  font-size: 55px;
+  text-align: center;
 }
 
 h1{
-  font-style: italic;
-  height: 100px;
-  background-color: black;
-  color: #eadf88;
-  font-size: 90px;
+  
 }
+
+
 
 
 

@@ -1,4 +1,5 @@
 import React, {Component} from 'react';
+import '../character/character.css'
 
 export default class UpdateRating extends Component{
     constructor(){
