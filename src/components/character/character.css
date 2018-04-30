@@ -1,0 +1,29 @@
+body{
+    display: inline;
+    /* margin: 15px; */
+    /* border: 1px solid black; */
+}
+
+.character button{
+    height: 40px;
+    width: 80px;
+    border-radius: 25px;
+}
+
+.character button:hover{
+    background-color: black;
+    color: white;
+}
+
+input{
+    height: 20px;
+}
+
+.character{
+    /* display: inline; */
+}
+
+.props{
+    display: block;
+}
+

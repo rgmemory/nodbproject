@@ -1,0 +1,22 @@
+body{
+  background-color: #eadf88;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.App {
+  /* display: flex;
+  flex-wrap: wrap; */
+}
+
+h1{
+  font-style: italic;
+  height: 100px;
+  background-color: black;
+  color: #eadf88;
+  font-size: 90px;
+}
+
+
+
+
